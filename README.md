@@ -1,4 +1,4 @@
-# PRODIGY_WD_04 - Personal Portfolio Website
+# Personal Portfolio Website
 
 This is Task 4 of my Web Development Internship at **Prodigy InfoTech**.
 
